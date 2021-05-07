@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="40" tileheight="40" infinite="0" nextlayerid="7" nextobjectid="6">
+ <editorsettings>
+  <chunksize width="40" height="40"/>
+ </editorsettings>
+ <tileset firstgid="1" source="map.tsx"/>
+ <layer id="1" name="layer" width="15" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNlYGBgHcWjeBQPGAYA884e+oQDAAA=
+  </data>
+ </layer>
+ <layer id="2" name="barrier" width="15" height="15" locked="1">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACo2TOw6FQAwDwwPxaGm5/0FpMlJkOWFHcrGRN95vhOcUdVwi+KWcD/5FE86nveBIuTXWfsom0vwO3X+3LrdPamSqh7HrSY256mE85apWciPms+rmVNwdKfS5P3zVD6vvqno1Fz1Z31PON7Hyj17rXZyhhAMAAA==
+  </data>
+ </layer>
+ <layer id="5" name="barrier0" width="15" height="15" opacity="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACo2TOw6FQAwDwwPxaGm5/0FpMlJkOWFHcrGRN95vhOcUdVwi+KWcD/5FE86nveBIuTXWfsom0vwO3X+3LrdPamSqh7HrSY256mE85apWciPms+rmVNwdKfS5P3zVD6vvqno1Fz1Z31PON7Hyj17rXZyhhAMAAA==
+  </data>
+ </layer>
+ <layer id="4" name="collid" width="15" height="15" opacity="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgwA440TAugEsdLj4hMUJ24DIfnzg2vfjswKafGLfh8w8+dxEKw8Gkl1iz8QFqqUFXj819xOgjxu/USLu41AIAwYuB9oQDAAA=
+  </data>
+ </layer>
+ <objectgroup id="3" name="ren">
+  <object id="4" name="player2" x="360" y="80" width="40" height="40"/>
+  <object id="5" name="player1" x="160" y="400" width="40" height="40"/>
+ </objectgroup>
+</map>
